@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="enter_name">Subject </string>
+    <string name="add_record">Add Diary</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="empty_list_text">No records found</string>
+    <string name="enter_desc">Details</string>
+    <string name="enter_title">Title</string>
+    <string name="title_activity_dash_boad">Diary Book</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_diary">My Diary Book</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+</resources>
